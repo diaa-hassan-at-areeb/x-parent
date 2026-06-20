@@ -1,0 +1,6 @@
+[submodule "x-front"]
+	path = x-front
+	url = git@github.com:diaa-hassan-at-areeb/x-front.git
+[submodule "x-back"]
+	path = x-back
+	url = git@github.com:diaa-hassan-at-areeb/x-back.git
